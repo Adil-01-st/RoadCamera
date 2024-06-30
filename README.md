@@ -1,30 +1,3 @@
-# Created by https://www.toptal.com/developers/gitignore/api/java
-# Edit at https://www.toptal.com/developers/gitignore?templates=java
-
-### Java ###
-# Compiled class file
-*.class
-
-# Log file
-*.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-replay_pid*
-
-# End of https://www.toptal.com/developers/gitignore/api/java
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXNvbG5qemtza3N1cG9ic2dsZW9nejM5eHNyNnVhZ2Q4am5obnJhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="100"/>
+</div>
